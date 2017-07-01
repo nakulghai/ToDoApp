@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import MainPage from './Components/MainPage.jsx';
+import ToDoApp from './Components/ToDoApp.jsx';
 
 ReactDOM.render(
-  <MainPage />
+  <ToDoApp />
 , document.getElementById('app'));
